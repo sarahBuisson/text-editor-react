@@ -1,0 +1,12 @@
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+.project
+.settings
+*.iml
+
+.idea/*
+node_modules/*
+public/*

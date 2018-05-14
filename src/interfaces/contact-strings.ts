@@ -1,0 +1,7 @@
+//export const LOAD_CONTACT: string = "LOAD_CONTACT";
+export const LOAD_CONTACT_INPROGRESS: string = "LOAD_CONTACT_INPROGRESS";
+export const LOAD_CONTACT_SUCCESS: string = "LOAD_CONTACT_SUCCESS";
+
+//export const SAVE_CONTACT: string = "SAVE_CONTACT";
+export const SAVE_CONTACT_INPROGRESS: string = "SAVE_CONTACT_INPROGRESS";
+export const SAVE_CONTACT_SUCCESS: string = "SAVE_CONTACT_SUCCESS";
